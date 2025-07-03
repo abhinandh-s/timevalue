@@ -2,5 +2,15 @@
 name = "timevalue"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+authors = ["Abhinandh S <abhinandhsuby@proton.me>"]
+description = "Compute present and future value of money for single sum and annuity (ordinary and due) using idiomatic Rust."
+license = "MIT"
+documentation = "https://docs.rs/timevalue"
+repository = "https://github.com/abhinandh-s/timevalue"
+homepage = "https://github.com/abhinandh-s/timevalue"
+categories = ["finance", "science", "mathematics"]
+keywords = ["finance", "present-value", "future-value", "annuity"]
+readme = "README.md"
 
 [dependencies]
