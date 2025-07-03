@@ -5,7 +5,6 @@ edition = "2024"
 license = "MIT"
 authors = ["Abhinandh S <abhinandhsuby@proton.me>"]
 description = "Compute present and future value of money for single sum and annuity (ordinary and due) using idiomatic Rust."
-license = "MIT"
 documentation = "https://docs.rs/timevalue"
 repository = "https://github.com/abhinandh-s/timevalue"
 homepage = "https://github.com/abhinandh-s/timevalue"
